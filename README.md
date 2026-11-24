@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👩🏻‍💻 About Me
 
-<!--
-**mariamemadg/mariamemadg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Mariam Emad Galioum**, an **AI Teaching Assistant** at the Faculty of Computers and Artificial Intelligence, **Sohag University**. I am passionate about bridging the gap between Artificial Intelligence, Software Development, and technical education to build impactful software solutions.
 
-Here are some ideas to get you started:
+* 🎓 **Education:** B.Sc. in Artificial Intelligence & Data Science — *Excellent with Honors (92% | GPA: 3.83/4.00)*
+* 🏫 **Academic Role:** Teaching Assistant & Project Mentor at Sohag University, supervising students in AI and software development projects
+* 🤖 **AI & Data Science:** Enthusiast and practitioner in Machine Learning, Deep Learning, and Computer Vision
+* 📱 **Mobile Development:** Flutter Developer creating practical, user-centric, and educational applications
+* 🚀 **Impact:** Developed and published educational mobile apps achieving **15,000+ combined downloads**
+* 👩🏻‍🏫 **Technical Instructor:** Experienced in teaching programming, AI fundamentals, and mobile app development
+* 🌱 **Currently Learning:** Frontend Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages & Technologies
+
+* **Programming Languages:** Python, C++, Dart
+* **Domains & Frameworks:** Flutter, Machine Learning, Deep Learning, Computer Vision, Frontend Development
+
+---
+
+## 📫 Connect with Me
+
+* **LinkedIn:** [Mariam Emad Ghalyoum](YOUR_LINKEDIN_URL)
+*
+
+
